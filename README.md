@@ -2,11 +2,6 @@
 
 ##### Oi, Eu sou Pedro:
 
-- 🎓Recent computer science graduate from UNC - Chapel Hill
-- :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
-- 🪐 Looking forward to global net zero, Mars (& the rest of space), and nuclear fusion
-- :speech_balloon: Ask me about accessibility, cybersecurity, full-stack, web, or literally anything!
-- :mailbox: You can reach me with the links below
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroedu77@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-eduardo-84a3101b1//)
